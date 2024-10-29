@@ -1,4 +1,4 @@
-# Ivan Eiji Simurra | Composição Musical & Computação Musical & Composição Algorítmica & Análise e Musicologia Computacional & AudioVisual & Multímida 🎵 💻
+# Ivan Eiji Simurra | Composição Musical & Computação Musical & Composição Algorítmica & Análise e Musicologia Computacional & Audiovisual & Multímida 🎵 💻
 [English version below](#english-version)
 
 ## Sobre mim 👋
