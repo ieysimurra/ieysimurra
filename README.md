@@ -2,7 +2,7 @@
 [English version below](#english-version)
 
 ## Sobre mim 👋
-Trabalho com a intersecção entre música e tecnologia, focando em composição algorítmica e análise musical auxiliada por computador. Minha pesquisa e projetos exploram as possibilidades criativas entre computação, tecnologia e criação musical.
+Trabalho com a intersecção entre música e tecnologia, focando em composição algorítmica e análise musical auxiliada por computador.
 
 ## 🎹 Áreas de Atuação
 - 🎼 Composição Algorítmica
