@@ -37,7 +37,7 @@ Trabalho com a intersecção entre música e tecnologia, focando em composição
 # <a name="english-version"></a>English Version | Musical Composition & Musical Computation & Algorithmic Composition & Analysis and Computational Musicology & Audiovisual & Multimedia 🎵 💻
 
 ## About Me 👋
-I work at the intersection of music and technology, focusing on algorithmic composition and computer-aided musical analysis. My research and projects explore the creative possibilities between computing, technology and music creation.
+I work at the intersection of music and technology, focusing on algorithmic composition and computer-aided musical analysis.
 
 ## 🎹 Areas of Expertise
 - 🎼 Algorithmic Composition
